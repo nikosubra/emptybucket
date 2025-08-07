@@ -41,7 +41,7 @@ When you run the program, it will prompt you for:
 - AWS Access Key ID
 - AWS Secret Access Key
 - AWS Region
-- S3 Endpoint (e.g. `https://s3-extreme.svc.gendata.it`)
+- S3 Endpoint (e.g. `https://s3-extreme.svc.it`)
 - Bucket name
 
 Example:
@@ -50,7 +50,7 @@ $ go run emptybucket.go
 Enter AWS Access Key ID: ****************
 Enter AWS Secret Access Key: ****************
 Enter AWS Region: us-east-1
-Enter S3 Endpoint URL: https://s3-extreme.svc.gendata.it
+Enter S3 Endpoint URL: https://s3-extreme.svc.it
 Enter Bucket Name: backups3dcretelit
 
 📦 How to Use
